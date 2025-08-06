@@ -1,5 +1,6 @@
-import { useContext } from 'react';
+//Added general comment fron my original local repo
 
+import { useContext } from 'react';
 import Modal from '../UI/Modal';
 import CartItem from './CartItem';
 import classes from './Cart.module.css';
